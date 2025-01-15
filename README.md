@@ -6,5 +6,7 @@ This repository is a comprehensive collection of Power BI cheatsheets and code s
 ## Contents:
 
 Cheatsheets: Quick reference guides for various Power BI features and functions.
+
 Code Snippets: Useful DAX and M code examples to solve common problems and automate tasks.
+
 Feel free to explore, use, and contribute to this repository. Let's make Power BI even more powerful together!
